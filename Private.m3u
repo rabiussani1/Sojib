@@ -1,0 +1,458 @@
+#EXTM3U 
+
+#EXTINF:-1, GTV
+http://10.10.10.2:84/fnf001/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TSportHD
+http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TSportHD
+http://23.255.0.10:8080/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Jamuna TV
+http://23.255.0.10:8080/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BanglaVISION
+http://23.255.0.10:8080/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BTV News
+http://23.255.0.10:8080/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Dipto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,Rangeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekusy TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,Mytv HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1, METV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1,Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Kal q4k
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
+#EXTINF:-1,Sony Kal q2k
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_1200k.m3u8
+#EXTINF:-1,HUM
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
+#EXTINF:-1,YRF
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,YRFF
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb543d1e786c64869ed43d63cef344a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebe10f118e6ea2b91b55c02c10b19f43c8814aa688dd5d9b5ed027f045c8c0f1ded016d0d7f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6573d2db535987a5dee32c8d7e3ea0d58ce8602900bd2f9b933b9b8091e/110/1280x720_2300392/index.m3u8
+#EXTINF:-1,Action Holloywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,Action Holloywood Moviess
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb543d1e786c64869ed43d63cef344a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebe25413d065a4e04f55c02c10b19f43c8814aa6d1dc0ac85e8623f41799c1a2dfd2188184f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6563b2dfd4c19fbecd067fb6cb7465a18dc946a6f68bf7efb6594a18b/71/1280x720_2657600/index.m3u8
+
+
+#EXTINF:-1,Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1,Tara TV
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tara TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1,Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1,Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1,Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+
+
+
+
+#EXTINF:-1,The Jungle book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1,Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZoMo TV
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,ZOMO tv
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb543d1e786c64869ed43d63cef344a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebb50b448d3ff5b91a55c02c10b49f43c8814aa6d2d70e995e8623f347999ba2ddd746d186f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6573d2ab335987a5db03dc8d7e391c551f1b1473f33c2f0f299abf72267/166/640x360_1020800/index.m3u8
+
+
+
+#EXTINF:-1,WildEarth q720p
+https://wildearth-plex.amagi.tv/masterR720P.m3u8#EXTINF:-1,
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,TravelXPP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,Animal Planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+
+
+#EXTINF:-1, Star Sport
+http://10.10.10.2:84/fnf002/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Spors1 HD
+http://192.168.91.8/streams/118/index.m3u8
+#EXTINF:-1, Ten Cricket
+http://10.10.10.2:84/fnf004/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Spors2 HD
+http://192.168.91.8/streams/117/index.m3u8
+#EXTINF:-1,Star Spors1
+http://192.168.91.8/streams/109/index.m3u8
+#EXTINF:-1,Star Spors2 
+http://192.168.91.8/streams/115/index.m3u8
+#EXTINF:-1, Sony Sport1
+#http://192.168.91.8/streams/106/index.m3u8
+#EXTINF:-1,Sony Sport2
+http://192.168.91.8/streams/119/index.m3u8
+#EXTINF:-1,Sony Sport3
+http://192.168.91.8/streams/110/index.m3u8
+#EXTINF:-1, Sport18
+http://192.168.91.8/streams/111/index.m3u8
+#EXTINF:-1,Urosport
+http://192.168.91.8/streams/116/index.m3u8
+#EXTINF:-1,ARY SPort
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1,ARY Sport
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist_w871431961.m3u8
+#EXTINF:-1,Bein Sport Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,EuroSport1 HD
+http://185.189.225.157/EuroSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EuroSport2 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1,RedBulTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
+#EXTINF:-1,TenSport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1,TenSport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w602993229.m3u8
+#EXTINF:-1,RTV Sport
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1,Dubai SPort2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1,Dubai Sport3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,PSJtv
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1,RMtv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1,PTV
+https://stream.imotv.net/stream/u-m8Xa5NVbQJ39sSXYVOBA/1738795602/PTV-sports/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1, Alzajeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Ndtv Q720p
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_720p@3.m3u8
+#EXTINF:-1,NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox q720p
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+
+****************VOOT BD**************************
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT",Sports18_1_HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Sports18_1_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png"  group-title="VOOT",Sports18_1_SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Sports18_1_SD_voot_MOB
+  
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="VOOT",Colors SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT",Colors HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_HD_voot_MOB
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png"  group-title="VOOT",MTV
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=MTV_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=MTV_HD_Plus_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="VOOT",MTV Beats SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=MTV_Beats_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=MTV_Beats_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png"  group-title="VOOT",Sonic Nickelodeon
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Sonic_Nickelodeon_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="VOOT",Nick SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Nick_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="VOOT",Nick HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Nick_HD_Plus_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="VOOT",Nick Junior
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Nick_Junior_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="VOOT",Colors_Infinity SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Infinity_SD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="VOOT",Colors_Infinity HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Infinity_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="VOOT",Colors Super
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Super_voot_MOB      
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="VOOT",Colors Cineplex SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_SD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="VOOT",Colors_Cineplex HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_voot_MOB 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="VOOT",Rishtey Cineplex
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Rishtey_Cineplex_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="VOOT",Colors Cineplex Bollywood
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_Bollywood_voot_MOB
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="VOOT",Comedy Central SD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Comedy_Central_SD_voot_MOB         
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy_Central HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Comedy_Central_HD_voot_MOB 
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT",Colors Rishtey
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Rishtey_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="VOOT",Colors Bangla
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="VOOT",Colors_Bangla HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="VOOT",Colors_Bangla Cinema
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_Cinema_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="VOOT",Colors Kannada
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Kannada_voot_MOB         
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="VOOT",Colors_Kannada_HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Kannada_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="VOOT",Colors_Kannada Cinema
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Kannada_Cinema_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="VOOT",Colors Marathi
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Marathi_voot_MOB     
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="VOOT",Colors Marathi_HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Marathi_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT",Colors Oriya
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Oriya_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="VOOT",Colors Tamil
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Tamil_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="VOOT",Colors Tamil HD
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Tamil_HD_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="VOOT",Colors Gujarati
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Gujarati_voot_MOB
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="VOOT",Colors_Gujarati_Cinema
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Gujarati_Cinema_voot_MOB
+
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="VOOT",Clubbing TV
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Clubbing_TV_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="VOOT",VH1
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=VH1_voot_MOB
+
+
+
+
+
+*****************WorldWide TOFFEE****************
+
+#EXTINF:-1, TSport HD
+https://cdn.hoichoi24.com/TSportsHD/video.m3u8
+
+#EXTINF:-1   tvg-name="TOFFEE Sports VIP"     tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sports_highlights
+
+#EXTINF:-1   tvg-name="TOFFEE Movies VIP"     tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png", TOFFEE Movies VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=toffee_movie
+
+#EXTINF:-1   tvg-name="TOFFEE Dramas VIP"     tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png", TOFFEE Dramas VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=toffee_drama
+
+#EXTINF:-1   tvg-name="CNN VIP"     tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png", CNN VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=cnn
+
+#EXTINF:-1   tvg-name="Euro Sport HD"     tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=euro_sports_hd
+
+#EXTINF:-1   tvg-name="SONY SPORTS TEN 1 HD"     tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_sports_1_hd
+
+#EXTINF:-1   tvg-name="SONY SPORTS TEN 2 HD"     tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_sports_2_hd
+
+#EXTINF:-1   tvg-name="SONY SPORTS TEN 5 HD"     tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_sports_5_hd
+
+#EXTINF:-1   tvg-name="SONY TEN Cricket"     tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png", SONY TEN Cricket
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=ten_cricket
+
+#EXTINF:-1   tvg-name="Cartoon Network HD"     tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=cartoon_network_hd
+
+#EXTINF:-1   tvg-name="Cartoon Network"     tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png", Cartoon Network
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=cartoon_network_sd
+
+#EXTINF:-1   tvg-name="Pogo"     tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png", Pogo
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=pogo_sd
+
+#EXTINF:-1   tvg-name="Discovery Kids"     tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png", Discovery Kids
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_kids
+
+#EXTINF:-1   tvg-name="SONY YAY VIP"     tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png", SONY YAY VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonyyay
+
+#EXTINF:-1   tvg-name="Zee Bangla VIP"     tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=zee_bangla
+
+#EXTINF:-1   tvg-name="Hum TV"     tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png", Hum TV
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=hum_tv
+
+#EXTINF:-1   tvg-name="Hum Masala"     tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png", Hum Masala
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=hum_masala
+
+#EXTINF:-1   tvg-name="Hum Sitarey"     tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png", Hum Sitarey
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=hum_sitaray
+
+#EXTINF:-1   tvg-name="Sony Aat VIP"     tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aat VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonyaath
+
+#EXTINF:-1   tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP"     tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png", SONY ENTERTAINMENT TELEVISION HD VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonyentertainmnt_hd
+
+#EXTINF:-1   tvg-name="SONY ENTERTAINMENT TELEVISION"     tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_entertainment
+
+#EXTINF:-1   tvg-name="B4U Music VIP"     tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U Music VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=b4u_music
+
+#EXTINF:-1   tvg-name="SONY SAB HD VIP"     tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png", SONY SAB HD VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
+
+#EXTINF:-1   tvg-name="SONY MAX HD VIP"     tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png", SONY MAX HD VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_max_hd
+
+#EXTINF:-1   tvg-name="SONY MAX VIP"     tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sony_max
+
+#EXTINF:-1   tvg-name="SONY PIX HD VIP"     tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png", SONY PIX HD VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonypix_hd
+
+#EXTINF:-1   tvg-name="B4U Movies VIP"     tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=b4u_movies
+
+#EXTINF:-1   tvg-name="SONY MAX 2 VIP"     tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png", SONY MAX 2 VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonymax_2
+
+#EXTINF:-1   tvg-name="Zee Bangla Cinema VIP"     tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png", Zee Bangla Cinema VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=zee_bangla_cinema
+
+#EXTINF:-1   tvg-name="TLC HD"     tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png", TLC HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=tlc_hd
+
+#EXTINF:-1   tvg-name="TLC"     tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png", TLC
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=tlc_sd
+
+#EXTINF:-1   tvg-name="Animal Planet"     tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png", Animal Planet
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=animal_planet_sd
+
+#EXTINF:-1   tvg-name="Animal Planet HD"     tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png", Animal Planet HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=animal_planet_hd
+
+#EXTINF:-1   tvg-name="SONY BBC EARTH HD VIP"     tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png", SONY BBC EARTH HD VIP
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonybbc_earth_hd
+
+#EXTINF:-1   tvg-name="Discovery HD"     tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png", Discovery HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_hd
+
+#EXTINF:-1   tvg-name="Discovery"     tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png", Discovery
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_sd
+
+#EXTINF:-1   tvg-name="Discovery Science"     tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png", Discovery Science
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_science
+
+#EXTINF:-1   tvg-name="Discovery Turbo"     tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png", Discovery Turbo
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_turbo
+
+#EXTINF:-1   tvg-name="Investigation Discovery HD"     tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png", Investigation Discovery HD
+https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovary_investigation_hd
+
+#EXTINF:-1, &Picture
+https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
+#EXTINF:-1, &Flix
+https://cdn.hoichoi24.com/AndFlixHD/video.m3u8
+#EXTINF:-1,SonyPixHD
+https://cdn.hoichoi24.com/SonyPixHD/video.m3u8
+#EXTINF:-1,Star Movies
+https://cdn.hoichoi24.com/StarMoviesHD/video.m3u8
+#EXTINF:-1, 9XM
+https://cdn.hoichoi24.com/9XM/video.m3u8
+#EXTINF:-1, Star Gold HD
+https://cdn.hoichoi24.com/colorsbanglahd/video.m3u8
+#EXTINF:-1, Sony Television HD
+https://cdn.hoichoi24.com/sonyhd/video.m3u8
+#EXTINF:-1, Sony Sport1
+https://cdn.hoichoi24.com/sonyten1hd/video.m3u8
+
+
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
