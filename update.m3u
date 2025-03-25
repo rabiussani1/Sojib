@@ -36,59 +36,6 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#########
-#EXTM3U 
-
-#EXTINF:-1,Asian Tv
-http://103.163.247.39:80/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1,Sa Tv 
-http://103.163.247.39:80/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Bangla Tv
-http://103.163.247.39:80/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,desh tv
-http://103.163.247.39:80/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1,DBC News
-http://103.163.247.39:80/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
-
-
-#EXTINF:-1,Somoy tv
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Independent tv
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,News24
-http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Ekhon tv
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Ekattor tv
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Ananda tv
-http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
-
-
-#EXTINF:-1,Bijoy tv
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Green tv
-http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
-
-
-#EXTINF:-1,Atn bangla
-http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1,Atn news
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-
-#########
 #EXTINF:-1, Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
