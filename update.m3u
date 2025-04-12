@@ -1,19 +1,31 @@
 #EXTM3U  
 
-#EXTINF:-1, BanglaVision
+#EXTINF:-1, TSport
 http://23.255.0.10:8080/1/index.m3u8
 
-#EXTINF:-1,TSport
+#EXTINF:-1,Gtv
 http://23.255.0.10:8080/2/index.m3u8
 
 #EXTINF:-1, Jamuna Tv
 http://23.255.0.10:8080/3/index.m3u8
 
-#EXTINF:-1, BTV News
+#EXTINF:-1, MasrangaTV
 http://23.255.0.10:8080/4/index.m3u8
 
 #EXTINF:-1,Gtv
 http://10.10.10.2/live/fnf003/index.m3u8
+
+#EXTINF:-1, TSport
+http://10.10.10.2/live/fnf001/index.m3u8
+
+#EXTINF:-1, StartSport 1 Select
+http://10.10.10.2/live/fnf002/index.m3u8
+
+#EXTINF:-1,Gtv
+http://10.10.10.2/live/fnf003/index.m3u8
+
+#EXTINF:-1, TenCricket
+http://10.10.10.2/live/fnf004/index.m3u8
 
 #EXTINF:-1, Dipto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
