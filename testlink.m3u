@@ -1,35 +1,22 @@
 #EXTM3U 
 
-#EXTINF:-1,Fox Sports 1 
-http://38.96.178.201/live/FS1/index.m3u8
+#EXTINF:-1,T Play Movies (24/7 Movies)
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-1,Fox Sports 2
-http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1,T Play Kids (24/7 Gopal Bhar)
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-1,ESPN HD 
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1,T Play Waz (24/7 Bangla Waz)
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
+#EXTINF:-1,T Play Kirtan (24/7 Bangla Kirtan)
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
-#EXTINF:-1,ESPN 2 
-http://38.96.178.201/live/ESPN2/index.m3u8
+#EXTINF:-1,T Play Dramas (24/7 Bangla Dramas)
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1,NBA 
-http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1,T Play Music (24/7 Bangla Songs)
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-#EXTINF:-1,Motor Trend HD US
-http://38.96.178.201/live/MotorTrend/index.m3u8
-
-#EXTINF:-1,ESPN U HD US
-http://38.96.178.201/live/ESPNU/index.m3u8
-
-#EXTINF:-1,TENNIS FHD US
-http://38.96.178.201/live/TENNIS/index.m3u8
-
-#EXTINF:-1,FOX BUSINESS FHD US
-http://38.96.178.201/live/Z_Living/index.m3u8
-
-#EXTINF:-1,Zing
-http://38.96.178.201:80/live/Zing/index.m3u8
-
-#EXTINF:-1,MLB
-http://38.96.178.201/live/MLB/index.m3u8
+#EXTINF:-1,T Play Music (24/7 Hindi Songs)
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
